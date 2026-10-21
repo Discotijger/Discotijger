@@ -1,4 +1,4 @@
-Public Class Matthew_Eriksen : monobehaviour
+Public Class Matthew : monobehaviour
 {
 
     Void Start()
